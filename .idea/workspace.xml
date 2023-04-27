@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4d57f8c-afd2-4dd8-91ab-efd216c28536" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/externalDependencies.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_3_17_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_swing_3_17_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_17_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_6_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_6_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_6_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_6_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Assertion/Watermark.Topics-Debugging_techniques-Assertion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Assertion/Watermark.Topics-Debugging_techniques-Assertion.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Assertion/Watermark.Topics-Debugging_techniques-Assertion.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Find the error/Watermark.Topics-Debugging_techniques-Find_the_error.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Find the error/Watermark.Topics-Debugging_techniques-Find_the_error.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Find the error/Watermark.Topics-Debugging_techniques-Find_the_error.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Log events/Watermark.Topics-Debugging_techniques-Log_events.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Log events/Watermark.Topics-Debugging_techniques-Log_events.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Log events/Watermark.Topics-Debugging_techniques-Log_events.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Theory/Watermark.Topics-Debugging_techniques-Theory.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Theory/Watermark.Topics-Debugging_techniques-Theory.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Theory/Watermark.Topics-Debugging_techniques-Theory.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/What you know about a debugger/Watermark.Topics-Debugging_techniques-What_you_know_about_a_debugger.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/What you know about a debugger/Watermark.Topics-Debugging_techniques-What_you_know_about_a_debugger.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/What you know about a debugger/Watermark.Topics-Debugging_techniques-What_you_know_about_a_debugger.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Check the numbers/Watermark.Topics-For_loop_and_arrays-Check_the_numbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Check the numbers/Watermark.Topics-For_loop_and_arrays-Check_the_numbers.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Check the numbers/Watermark.Topics-For_loop_and_arrays-Check_the_numbers.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Counting/Watermark.Topics-For_loop_and_arrays-Counting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Counting/Watermark.Topics-For_loop_and_arrays-Counting.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Counting/Watermark.Topics-For_loop_and_arrays-Counting.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Is it here/Watermark.Topics-For_loop_and_arrays-Is_it_here.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Is it here/Watermark.Topics-For_loop_and_arrays-Is_it_here.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Is it here/Watermark.Topics-For_loop_and_arrays-Is_it_here.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Step/Watermark.Topics-For_loop_and_arrays-Step.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Step/Watermark.Topics-For_loop_and_arrays-Step.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Step/Watermark.Topics-For_loop_and_arrays-Step.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Theory/Watermark.Topics-For_loop_and_arrays-Theory.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Theory/Watermark.Topics-For_loop_and_arrays-Theory.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Theory/Watermark.Topics-For_loop_and_arrays-Theory.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image colors/Generate ARGB value/Watermark.Topics-Image_colors-Generate_ARGB_value.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image colors/Generate ARGB value/Watermark.Topics-Image_colors-Generate_ARGB_value.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image colors/Generate ARGB value/Watermark.Topics-Image_colors-Generate_ARGB_value.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image colors/Print color/Watermark.Topics-Image_colors-Print_color.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image colors/Print color/Watermark.Topics-Image_colors-Print_color.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image colors/Print color/Watermark.Topics-Image_colors-Print_color.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image colors/RGB 24-bit/Watermark.Topics-Image_colors-RGB_24-bit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image colors/RGB 24-bit/Watermark.Topics-Image_colors-RGB_24-bit.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image colors/RGB 24-bit/Watermark.Topics-Image_colors-RGB_24-bit.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image colors/Theory/Watermark.Topics-Image_colors-Theory.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image colors/Theory/Watermark.Topics-Image_colors-Theory.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image colors/Theory/Watermark.Topics-Image_colors-Theory.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image libraries/Drawing a red square/Watermark.Topics-Image_libraries-Drawing_a_red_square.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image libraries/Drawing a red square/Watermark.Topics-Image_libraries-Drawing_a_red_square.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image libraries/Drawing a red square/Watermark.Topics-Image_libraries-Drawing_a_red_square.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image libraries/Drawing four circles/Watermark.Topics-Image_libraries-Drawing_four_circles.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image libraries/Drawing four circles/Watermark.Topics-Image_libraries-Drawing_four_circles.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image libraries/Drawing four circles/Watermark.Topics-Image_libraries-Drawing_four_circles.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image libraries/Representing images in Kotlin/Watermark.Topics-Image_libraries-Representing_images_in_Kotlin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image libraries/Representing images in Kotlin/Watermark.Topics-Image_libraries-Representing_images_in_Kotlin.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image libraries/Representing images in Kotlin/Watermark.Topics-Image_libraries-Representing_images_in_Kotlin.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image libraries/Supported formats/Watermark.Topics-Image_libraries-Supported_formats.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image libraries/Supported formats/Watermark.Topics-Image_libraries-Supported_formats.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image libraries/Supported formats/Watermark.Topics-Image_libraries-Supported_formats.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image libraries/Theory/Watermark.Topics-Image_libraries-Theory.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image libraries/Theory/Watermark.Topics-Image_libraries-Theory.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Image libraries/Theory/Watermark.Topics-Image_libraries-Theory.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Multi-dimensional array/Corners/Watermark.Topics-Multi-dimensional_array-Corners.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Multi-dimensional array/Corners/Watermark.Topics-Multi-dimensional_array-Corners.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Multi-dimensional array/Corners/Watermark.Topics-Multi-dimensional_array-Corners.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Multi-dimensional array/Theory/Watermark.Topics-Multi-dimensional_array-Theory.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Multi-dimensional array/Theory/Watermark.Topics-Multi-dimensional_array-Theory.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Multi-dimensional array/Theory/Watermark.Topics-Multi-dimensional_array-Theory.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Object declarations/Blocks in a box/Watermark.Topics-Object_declarations-Blocks_in_a_box.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Object declarations/Blocks in a box/Watermark.Topics-Object_declarations-Blocks_in_a_box.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Object declarations/Blocks in a box/Watermark.Topics-Object_declarations-Blocks_in_a_box.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Object declarations/Board game basics  Game/Watermark.Topics-Object_declarations-Board_game_basics__Game.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Object declarations/Board game basics  Game/Watermark.Topics-Object_declarations-Board_game_basics__Game.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Object declarations/Board game basics  Game/Watermark.Topics-Object_declarations-Board_game_basics__Game.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Object declarations/Keyword/Watermark.Topics-Object_declarations-Keyword.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Object declarations/Keyword/Watermark.Topics-Object_declarations-Keyword.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Object declarations/Keyword/Watermark.Topics-Object_declarations-Keyword.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Object declarations/Properties/Watermark.Topics-Object_declarations-Properties.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Object declarations/Properties/Watermark.Topics-Object_declarations-Properties.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Object declarations/Properties/Watermark.Topics-Object_declarations-Properties.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Object declarations/Singleton defined/Watermark.Topics-Object_declarations-Singleton_defined.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Object declarations/Singleton defined/Watermark.Topics-Object_declarations-Singleton_defined.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Object declarations/Singleton defined/Watermark.Topics-Object_declarations-Singleton_defined.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Object declarations/Theory/Watermark.Topics-Object_declarations-Theory.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Object declarations/Theory/Watermark.Topics-Object_declarations-Theory.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Object declarations/Theory/Watermark.Topics-Object_declarations-Theory.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Watermark.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Watermark/task/Watermark.Watermark-task.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Watermark/task/Watermark.Watermark-task.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Watermark/task/Watermark.Watermark-task.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Watermark/task/build/classes/kotlin/Watermark.Watermark-task-build-classes-kotlin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Watermark/task/build/classes/kotlin/Watermark.Watermark-task-build-classes-kotlin.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Watermark/task/build/classes/kotlin/Watermark.Watermark-task-build-classes-kotlin.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Watermark/task/build/reports/tests/Watermark.Watermark-task-build-reports-tests.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Watermark/task/build/reports/tests/Watermark.Watermark-task-build-reports-tests.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Watermark/task/build/reports/tests/Watermark.Watermark-task-build-reports-tests.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Watermark/task/build/test-results/Watermark.Watermark-task-build-test-results.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Watermark/task/build/test-results/Watermark.Watermark-task-build-test-results.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Watermark/task/build/test-results/Watermark.Watermark-task-build-test-results.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Watermark/task/build/tmp/Watermark.Watermark-task-build-tmp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Watermark/task/build/tmp/Watermark.Watermark-task-build-tmp.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Watermark/task/build/tmp/Watermark.Watermark-task-build-tmp.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/Watermark.util.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/Watermark.util.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/Watermark.util.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Watermark/Alpha channel transparency/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Watermark/Alpha channel transparency/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Watermark/Alpha channel transparency/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Watermark/Alpha channel transparency/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Watermark/task/build/classes/kotlin/main/watermark/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/Watermark/task/build/classes/kotlin/main/watermark/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Watermark/task/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Watermark/task/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Watermark/task/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Watermark/task/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2P1sHKz1F9UtQej0NluANGXGkDX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Edu.Yaml.Migrate" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="Kotlin SDK" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="CardGameTest" />
+      <module name="Watermark.Watermark-task.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="CompoundRunConfigurationType">
+      <method v="2" />
+    </configuration>
+    <configuration name="Watermark" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="watermark.MainKt" />
+      <module name="Watermark.Watermark-task.main" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Compound.Unnamed" />
+      <item itemvalue="Gradle.Watermark" />
+      <item itemvalue="Kotlin.MainKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4d57f8c-afd2-4dd8-91ab-efd216c28536" name="Changes" comment="" />
+      <created>1682635835691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682635835691</updated>
+    </task>
+    <servers />
+  </component>
+</project>

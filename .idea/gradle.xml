@@ -1,44 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="false" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="WRAPPED" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Gradle/gradle-8.0.2" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Assertion" />
-            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Find the error" />
-            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Log events" />
-            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Theory" />
-            <option value="$PROJECT_DIR$/Topics/Debugging techniques/What you know about a debugger" />
-            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Check the numbers" />
-            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Counting" />
-            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Is it here" />
-            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Step" />
-            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Theory" />
-            <option value="$PROJECT_DIR$/Topics/Image colors/Generate ARGB value" />
-            <option value="$PROJECT_DIR$/Topics/Image colors/Print color" />
-            <option value="$PROJECT_DIR$/Topics/Image colors/RGB 24-bit" />
-            <option value="$PROJECT_DIR$/Topics/Image colors/Theory" />
-            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing a red square" />
-            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing four circles" />
-            <option value="$PROJECT_DIR$/Topics/Image libraries/Representing images in Kotlin" />
-            <option value="$PROJECT_DIR$/Topics/Image libraries/Supported formats" />
-            <option value="$PROJECT_DIR$/Topics/Image libraries/Theory" />
-            <option value="$PROJECT_DIR$/Topics/Multi-dimensional array/Corners" />
-            <option value="$PROJECT_DIR$/Topics/Multi-dimensional array/Theory" />
-            <option value="$PROJECT_DIR$/Topics/Object declarations/Blocks in a box" />
-            <option value="$PROJECT_DIR$/Topics/Object declarations/Board game basics  Game" />
-            <option value="$PROJECT_DIR$/Topics/Object declarations/Keyword" />
-            <option value="$PROJECT_DIR$/Topics/Object declarations/Properties" />
-            <option value="$PROJECT_DIR$/Topics/Object declarations/Singleton defined" />
-            <option value="$PROJECT_DIR$/Topics/Object declarations/Theory" />
             <option value="$PROJECT_DIR$/Watermark/task" />
             <option value="$PROJECT_DIR$/Watermark/task/build/classes/kotlin" />
             <option value="$PROJECT_DIR$/Watermark/task/build/reports/tests" />
