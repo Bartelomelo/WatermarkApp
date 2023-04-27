@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Watermark.Topics-Debugging_techniques-Assertion.main" target="11" />
+      <module name="Watermark.Topics-Debugging_techniques-Find_the_error.main" target="11" />
+      <module name="Watermark.Topics-Debugging_techniques-Log_events.main" target="11" />
+      <module name="Watermark.Topics-Debugging_techniques-Theory.main" target="11" />
+      <module name="Watermark.Topics-Debugging_techniques-What_you_know_about_a_debugger.main" target="11" />
+      <module name="Watermark.Topics-For_loop_and_arrays-Check_the_numbers.main" target="11" />
+      <module name="Watermark.Topics-For_loop_and_arrays-Counting.main" target="11" />
+      <module name="Watermark.Topics-For_loop_and_arrays-Is_it_here.main" target="11" />
+      <module name="Watermark.Topics-For_loop_and_arrays-Step.main" target="11" />
+      <module name="Watermark.Topics-For_loop_and_arrays-Theory.main" target="11" />
+      <module name="Watermark.Topics-Image_colors-Generate_ARGB_value.main" target="11" />
+      <module name="Watermark.Topics-Image_colors-Print_color.main" target="11" />
+      <module name="Watermark.Topics-Image_colors-RGB_24-bit.main" target="11" />
+      <module name="Watermark.Topics-Image_colors-Theory.main" target="11" />
+      <module name="Watermark.Topics-Image_libraries-Drawing_a_red_square.main" target="11" />
+      <module name="Watermark.Topics-Image_libraries-Drawing_four_circles.main" target="11" />
+      <module name="Watermark.Topics-Image_libraries-Representing_images_in_Kotlin.main" target="11" />
+      <module name="Watermark.Topics-Image_libraries-Supported_formats.main" target="11" />
+      <module name="Watermark.Topics-Image_libraries-Theory.main" target="11" />
+      <module name="Watermark.Topics-Multi-dimensional_array-Corners.main" target="11" />
+      <module name="Watermark.Topics-Multi-dimensional_array-Theory.main" target="11" />
+      <module name="Watermark.Topics-Object_declarations-Blocks_in_a_box.main" target="11" />
+      <module name="Watermark.Topics-Object_declarations-Board_game_basics__Game.main" target="11" />
+      <module name="Watermark.Topics-Object_declarations-Keyword.main" target="11" />
+      <module name="Watermark.Topics-Object_declarations-Properties.main" target="11" />
+      <module name="Watermark.Topics-Object_declarations-Singleton_defined.main" target="11" />
+      <module name="Watermark.Topics-Object_declarations-Theory.main" target="11" />
+      <module name="Watermark.util.main" target="11" />
+      <module name="Watermark.Watermark-task-build-classes-kotlin.main" target="11" />
+      <module name="Watermark.Watermark-task-build-reports-tests.main" target="11" />
+      <module name="Watermark.Watermark-task-build-test-results.main" target="11" />
+      <module name="Watermark.Watermark-task-build-tmp.main" target="11" />
+      <module name="Watermark.Watermark-task.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
